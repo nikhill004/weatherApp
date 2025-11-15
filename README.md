@@ -1,4 +1,5 @@
 # ⛅ Weather App
+- Preview:  https://nikhill004.github.io/weatherApp/
 
 A simple weather app built with **HTML, CSS, and JavaScript** that fetches real-time weather data using the **OpenWeather API**.  
 Just enter the name of a city/place and instantly get its current **temperature** and **weather condition**.
